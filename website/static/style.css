@@ -1,0 +1,43 @@
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+html, body, input {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+}
+table {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid #CCC;
+}
+div {
+  display: flex;
+  padding: 0.5em;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.background-light {
+  background-color: #DDD;
+}
+.flex-col {
+  width: 100%;
+  flex-direction: column;
+  gap: 0.5em;
+}
+.flex-row {
+  width: 100%;
+  flex-direction: row;
+  gap: 0.5em;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-align-start {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flex-center {
+  justify-content: center;
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started @ 2022-11-06 19:19:27 UTC -->
+<game xmlns="http://feed.elasticstats.com/schema/basketball/game-v7.0.xsd" id="75bdc63a-a705-49ca-adea-c8739020da6b" status="closed" coverage="full" scheduled="2022-10-28T23:30:00+00:00" duration="2:42" attendance="19156" lead_changes="12" times_tied="9" clock="00:00" quarter="5" track_on_court="true" reference="0022200072" entry_mode="WEBSOCKET" sr_id="sr:match:35433713" clock_decimal="00:00" home_team="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" away_team="583ec773-fb46-11e1-82cb-f4ce4684ea4c">
+    <time_zones venue="US/Eastern" home="US/Eastern" away="US/Eastern"/>
+    <team name="Celtics" alias="BOS" market="Boston" id="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" points="123" bonus="true" sr_id="sr:team:3422" reference="1610612738" home="true">
+        <scoring>
+            <quarter number="1" sequence="1" points="34"/>
+            <quarter number="2" sequence="2" points="41"/>
+            <quarter number="3" sequence="3" points="24"/>
+            <quarter number="4" sequence="4" points="15"/>
+            <overtime number="1" sequence="5" points="9"/>
+        </scoring>
+        <leaders>
+            <points>
+                <player full_name="Jaylen Brown" jersey_number="7" id="ffc5579c-783f-4d62-80ab-3c3dcb05a27d" position="F" primary_position="SF" sr_id="sr:player:996297" reference="1627759">
+                    <statistics minutes="42:48" field_goals_made="11" field_goals_att="22" field_goals_pct="50.0" three_points_made="2" three_points_att="7" three_points_pct="28.6" two_points_made="9" two_points_att="15" two_points_pct="60.0" blocked_att="1" free_throws_made="8" free_throws_att="12" free_throws_pct="66.7" offensive_rebounds="0" defensive_rebounds="8" rebounds="8" assists="4" turnovers="6" steals="2" blocks="0" assists_turnover_ratio="0.67" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-21" points="32" double_double="false" triple_double="false" effective_fg_pct="54.5" efficiency="32" efficiency_game_score="19.4" points_in_paint="18" points_in_paint_att="12" points_in_paint_made="9" points_in_paint_pct="75.0" true_shooting_att="27.28" true_shooting_pct="58.7" fouls_drawn="11" offensive_fouls="0" points_off_turnovers="3" second_chance_pts="1"/>
+                </player>
+                <player full_name="Jayson Tatum" jersey_number="0" id="98136da3-452f-49dc-a794-1ee9c76443f2" position="F" primary_position="PF" sr_id="sr:player:1141196" reference="1628369">
+                    <statistics minutes="42:11" field_goals_made="11" field_goals_att="19" field_goals_pct="57.9" three_points_made="3" three_points_att="7" three_points_pct="42.9" two_points_made="8" two_points_att="12" two_points_pct="66.7" blocked_att="1" free_throws_made="7" free_throws_att="8" free_throws_pct="87.5" offensive_rebounds="1" defensive_rebounds="6" rebounds="7" assists="4" turnovers="4" steals="1" blocks="1" assists_turnover_ratio="1.0" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-10" points="32" double_double="false" triple_double="false" effective_fg_pct="65.8" efficiency="33" efficiency_game_score="24.1" points_in_paint="12" points_in_paint_att="8" points_in_paint_made="6" points_in_paint_pct="75.0" true_shooting_att="22.52" true_shooting_pct="71.0" fouls_drawn="6" offensive_fouls="1" points_off_turnovers="6" second_chance_pts="6"/>
+                </player>
+            </points>
+            <rebounds>
+                <player full_name="Jaylen Brown" jersey_number="7" id="ffc5579c-783f-4d62-80ab-3c3dcb05a27d" position="F" primary_position="SF" sr_id="sr:player:996297" reference="1627759">
+                    <statistics minutes="42:48" field_goals_made="11" field_goals_att="22" field_goals_pct="50.0" three_points_made="2" three_points_att="7" three_points_pct="28.6" two_points_made="9" two_points_att="15" two_points_pct="60.0" blocked_att="1" free_throws_made="8" free_throws_att="12" free_throws_pct="66.7" offensive_rebounds="0" defensive_rebounds="8" rebounds="8" assists="4" turnovers="6" steals="2" blocks="0" assists_turnover_ratio="0.67" personal_fouls="3" tech_fouls="0" flagrant_fouls="0" pls_min="-21" points="32" double_double="false" triple_double="false" effective_fg_pct="54.5" efficiency="32" efficiency_game_score="19.4" points_in_paint="18" points_in_paint_att="12" points_in_paint_made="9" points_in_paint_pct="75.0" true_shooting_att="27.28" true_shooting_pct="58.7" fouls_drawn="11" offensive_fouls="0" points_off_turnovers="3" second_chance_pts="1"/>
+                </player>
+            </rebounds>
+            <assists>
+                <player full_name="Marcus Smart" jersey_number="36" id="af460d21-b1d8-46bb-a228-61ac4fb9ccf9" position="G" primary_position="PG" sr_id="sr:player:607636" reference="203935">
+                    <statistics minutes="37:50" field_goals_made="3" field_goals_att="15" field_goals_pct="20.0" three_points_made="2" three_points_att="9" three_points_pct="22.2" two_points_made="1" two_points_att="6" two_points_pct="16.7" blocked_att="0" free_throws_made="3" free_throws_att="4" free_throws_pct="75.0" offensive_rebounds="0" defensive_rebounds="5" rebounds="5" assists="7" turnovers="2" steals="2" blocks="0" assists_turnover_ratio="3.5" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="-26" points="11" double_double="false" triple_double="false" effective_fg_pct="26.7" efficiency="11" efficiency_game_score="6.1" points_in_paint="2" points_in_paint_att="6" points_in_paint_made="1" points_in_paint_pct="16.7" true_shooting_att="16.76" true_shooting_pct="32.8" fouls_drawn="5" offensive_fouls="0" points_off_turnovers="0" second_chance_pts="0"/>
+                </player>
+            </assists>
+        </leaders>
+    </team>
+    <team name="Cavaliers" alias="CLE" market="Cleveland" id="583ec773-fb46-11e1-82cb-f4ce4684ea4c" points="132" bonus="true" sr_id="sr:team:3432" reference="1610612739">
+        <scoring>
+            <quarter number="1" sequence="1" points="33"/>
+            <quarter number="2" sequence="2" points="29"/>
+            <quarter number="3" sequence="3" points="33"/>
+            <quarter number="4" sequence="4" points="19"/>
+            <overtime number="1" sequence="5" points="18"/>
+        </scoring>
+        <leaders>
+            <points>
+                <player full_name="Donovan Mitchell" jersey_number="45" id="b6dde96e-3748-4cbe-86d2-798d5dffb3c0" position="G" primary_position="PG" sr_id="sr:player:1141362" reference="1628378">
+                    <statistics minutes="45:42" field_goals_made="15" field_goals_att="25" field_goals_pct="60.0" three_points_made="5" three_points_att="9" three_points_pct="55.6" two_points_made="10" two_points_att="16" two_points_pct="62.5" blocked_att="0" free_throws_made="6" free_throws_att="6" free_throws_pct="100.0" offensive_rebounds="0" defensive_rebounds="4" rebounds="4" assists="3" turnovers="7" steals="1" blocks="0" assists_turnover_ratio="0.43" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="18" points="41" double_double="false" triple_double="false" effective_fg_pct="70.0" efficiency="32" efficiency_game_score="25.2" points_in_paint="14" points_in_paint_att="9" points_in_paint_made="7" points_in_paint_pct="77.8" true_shooting_att="27.64" true_shooting_pct="74.2" fouls_drawn="4" offensive_fouls="0" points_off_turnovers="4" second_chance_pts="2"/>
+                </player>
+                <player full_name="Caris LeVert" jersey_number="3" id="c34996e5-8be6-4053-a2f2-0acb0155e18c" position="G" primary_position="SG" sr_id="sr:player:996291" reference="1627747">
+                    <statistics minutes="42:48" field_goals_made="12" field_goals_att="21" field_goals_pct="57.1" three_points_made="6" three_points_att="8" three_points_pct="75.0" two_points_made="6" two_points_att="13" two_points_pct="46.2" blocked_att="1" free_throws_made="11" free_throws_att="12" free_throws_pct="91.7" offensive_rebounds="2" defensive_rebounds="2" rebounds="4" assists="7" turnovers="2" steals="3" blocks="0" assists_turnover_ratio="3.5" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="21" points="41" double_double="false" triple_double="false" effective_fg_pct="71.4" efficiency="47" efficiency_game_score="37.0" points_in_paint="12" points_in_paint_att="12" points_in_paint_made="6" points_in_paint_pct="50.0" true_shooting_att="26.28" true_shooting_pct="78.0" fouls_drawn="9" offensive_fouls="0" points_off_turnovers="9" second_chance_pts="5"/>
+                </player>
+            </points>
+            <rebounds>
+                <player full_name="Jarrett Allen" jersey_number="31" id="a3fff5c7-19b6-4dac-bd75-11b944bea505" position="C" primary_position="C" sr_id="sr:player:1124733" reference="1628386">
+                    <statistics minutes="39:39" field_goals_made="5" field_goals_att="9" field_goals_pct="55.6" three_points_made="0" three_points_att="1" three_points_pct="0.0" two_points_made="5" two_points_att="8" two_points_pct="62.5" blocked_att="0" free_throws_made="2" free_throws_att="4" free_throws_pct="50.0" offensive_rebounds="3" defensive_rebounds="8" rebounds="11" assists="2" turnovers="0" steals="0" blocks="0" assists_turnover_ratio="0.0" personal_fouls="2" tech_fouls="0" flagrant_fouls="0" pls_min="25" points="12" double_double="true" triple_double="false" effective_fg_pct="55.6" efficiency="19" efficiency_game_score="12.0" points_in_paint="8" points_in_paint_att="7" points_in_paint_made="4" points_in_paint_pct="57.1" true_shooting_att="10.76" true_shooting_pct="55.8" fouls_drawn="2" offensive_fouls="0" points_off_turnovers="0" second_chance_pts="3"/>
+                </player>
+            </rebounds>
+            <assists>
+                <player full_name="Caris LeVert" jersey_number="3" id="c34996e5-8be6-4053-a2f2-0acb0155e18c" position="G" primary_position="SG" sr_id="sr:player:996291" reference="1627747">
+                    <statistics minutes="42:48" field_goals_made="12" field_goals_att="21" field_goals_pct="57.1" three_points_made="6" three_points_att="8" three_points_pct="75.0" two_points_made="6" two_points_att="13" two_points_pct="46.2" blocked_att="1" free_throws_made="11" free_throws_att="12" free_throws_pct="91.7" offensive_rebounds="2" defensive_rebounds="2" rebounds="4" assists="7" turnovers="2" steals="3" blocks="0" assists_turnover_ratio="3.5" personal_fouls="4" tech_fouls="0" flagrant_fouls="0" pls_min="21" points="41" double_double="false" triple_double="false" effective_fg_pct="71.4" efficiency="47" efficiency_game_score="37.0" points_in_paint="12" points_in_paint_att="12" points_in_paint_made="6" points_in_paint_pct="50.0" true_shooting_att="26.28" true_shooting_pct="78.0" fouls_drawn="9" offensive_fouls="0" points_off_turnovers="9" second_chance_pts="5"/>
+                </player>
+            </assists>
+        </leaders>
+    </team>
+</game>
+<!-- Generation ended @ 2022-11-06 19:19:27 UTC -->
